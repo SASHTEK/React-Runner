@@ -2,7 +2,7 @@
 
 React Runner is a lightweight Windows Desktop utility designed to streamline the development workflow for React and Node.js developers. Instead of manually opening terminals and typing commands, just drag, drop, and run!
 
-![App Screenshot Placeholder](screenshots/main_ui.png)
+<img src="screenshots/main_ui.png"/>
 
 ## ✨ Key Features
 
