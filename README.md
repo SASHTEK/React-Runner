@@ -31,7 +31,7 @@ React Runner is a lightweight Windows Desktop utility designed to streamline the
 If you want to build the project yourself:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ReactRunner.git
+   git clone https://github.com/yourusername/React-Runner.git
 2. Open the `.sln` file in Visual Studio 2022.
 3. Ensure you have the **.NET Desktop Development** workload installed.
 
